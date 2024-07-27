@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1213F794-D152-47E3-A723-29F7BA6A5BDB}|Project_63131920\\Project_63131920.csproj|e:\\university\\third-yrs\\period1\\mvc\\project\\project_63131920\\project_63131920\\views\\home_63131920\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1213F794-D152-47E3-A723-29F7BA6A5BDB}|Project_63131920\\Project_63131920.csproj|solutionrelative:project_63131920\\views\\home_63131920\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1213F794-D152-47E3-A723-29F7BA6A5BDB}|Project_63131920\\Project_63131920.csproj|E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\project_63131920\\views\\home_63131920\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1213F794-D152-47E3-A723-29F7BA6A5BDB}|Project_63131920\\Project_63131920.csproj|solutionrelative:project_63131920\\views\\home_63131920\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1213F794-D152-47E3-A723-29F7BA6A5BDB}|Project_63131920\\Project_63131920.csproj|E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\project_63131920\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1213F794-D152-47E3-A723-29F7BA6A5BDB}|Project_63131920\\Project_63131920.csproj|solutionrelative:project_63131920\\context\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1213F794-D152-47E3-A723-29F7BA6A5BDB}|Project_63131920\\Project_63131920.csproj|E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\project_63131920\\controllers\\home_63131920controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1213F794-D152-47E3-A723-29F7BA6A5BDB}|Project_63131920\\Project_63131920.csproj|solutionrelative:project_63131920\\controllers\\home_63131920controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1213F794-D152-47E3-A723-29F7BA6A5BDB}|Project_63131920\\Project_63131920.csproj|E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\project_63131920\\views\\home_63131920\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1213F794-D152-47E3-A723-29F7BA6A5BDB}|Project_63131920\\Project_63131920.csproj|solutionrelative:project_63131920\\views\\home_63131920\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\Project_63131920\\Views\\Home_63131920\\Login.cshtml",
+              "RelativeDocumentMoniker": "Project_63131920\\Views\\Home_63131920\\Login.cshtml",
+              "ToolTip": "E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\Project_63131920\\Views\\Home_63131920\\Login.cshtml",
+              "RelativeToolTip": "Project_63131920\\Views\\Home_63131920\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-31T17:19:26.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\Project_63131920\\Context\\User.cs",
+              "RelativeDocumentMoniker": "Project_63131920\\Context\\User.cs",
+              "ToolTip": "E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\Project_63131920\\Context\\User.cs",
+              "RelativeToolTip": "Project_63131920\\Context\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2023-12-31T15:57:58.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home_63131920Controller.cs",
+              "DocumentMoniker": "E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\Project_63131920\\Controllers\\Home_63131920Controller.cs",
+              "RelativeDocumentMoniker": "Project_63131920\\Controllers\\Home_63131920Controller.cs",
+              "ToolTip": "E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\Project_63131920\\Controllers\\Home_63131920Controller.cs",
+              "RelativeToolTip": "Project_63131920\\Controllers\\Home_63131920Controller.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwCoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-31T15:28:36.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\Project_63131920\\Views\\Home_63131920\\Register.cshtml",
+              "RelativeDocumentMoniker": "Project_63131920\\Views\\Home_63131920\\Register.cshtml",
+              "ToolTip": "E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\Project_63131920\\Views\\Home_63131920\\Register.cshtml",
+              "RelativeToolTip": "Project_63131920\\Views\\Home_63131920\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-12-31T15:28:22.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\Project_63131920\\Views\\Home_63131920\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_63131920\\Views\\Home_63131920\\Index.cshtml",
+              "ToolTip": "E:\\UNIVERSITY\\Third-yrs\\period1\\MVC\\project\\Project_63131920\\Project_63131920\\Views\\Home_63131920\\Index.cshtml",
+              "RelativeToolTip": "Project_63131920\\Views\\Home_63131920\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-12-31T15:19:06.618Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 69,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

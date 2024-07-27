@@ -1,0 +1,36 @@
+﻿@model Project_63131920.Context.User
+
+@{
+    ViewBag.Title = "Đăng nhập";
+}
+
+<div class="row justify-content-md-center">
+    <div class="col-md-3">
+        <div class="card" style="max-width: 380px; margin-top: 50px;">
+            <div class="card-header">
+                <h4>Đăng nhập</h4>
+            </div>
+            <div class="card-body">
+                @using (Html.BeginForm("Login", "Home_63131920", FormMethod.Post))
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.email, "Tài khoản")
+                        <input type="email" class="form-control" name="email" value="" placeholder="Email" />
+
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.password, "Mật khẩu")
+                        @Html.PasswordFor(m => m.password, new { @class = "form-control" })
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" name="submit" class="btn btn-primary" value="Đăng nhập" />
+                    </div>
+                    <span class="text-danger">@ViewBag.error</span>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<p class="text-center mt-4">Bạn chưa có tài khoản? <a href="~/Home_63131920/Register">Đăng ký</a></p>
+
